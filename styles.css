@@ -1,10 +1,13 @@
 
 @media (min-width: 992px){
-
+  * {
+  float: right;
+  }
 }
 @media (min-width: 768px) and (max-width: 991px){
 
 }
 @media (max-width: 767) {
-#colum3: clear:left ;
+  #colum3 { 
+    clear: left;}
 }
