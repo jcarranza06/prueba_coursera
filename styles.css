@@ -2,6 +2,7 @@
 
 @media (min-width: 992px){
   div {
+  color: blue;
   width: 100px;
   float: left;
   }
