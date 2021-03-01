@@ -1,4 +1,6 @@
-
+div { 
+  color: red;
+}
 
 @media (min-width: 992px){
   div {
